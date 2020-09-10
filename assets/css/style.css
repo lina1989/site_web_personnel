@@ -1,0 +1,32 @@
+/* */
+body {
+      text-align: center;
+      background-image: url("https://images.unsplash.com/photo-1546706872-6eba7f012576?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      color: black;
+      font-family: "Goudy Bookletter 1911", sans-serif;
+    }
+    h1{
+      font-size: 50px;
+      font-family: "Goudy Bookletter 1911", sans-serif;
+    }
+    img{
+      border-radius: 50%;
+      width : 300px;
+      height: 300px;
+      border: 10px solid #ffff;
+    }
+    p{
+      font-size: 32px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: grey;
+      color: white;
+    }
